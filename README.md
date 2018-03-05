@@ -28,6 +28,8 @@ of Focus based on received user feedback.
 - Add different profiles based on a person (Difficulty)
 - Add sound feedback when a square disappears (User might focus with eyes closed)
 - Save brainwaves information to a external file for future usage.
+- Incorporate usage of other brain wave activity (beta, theta, gamma) in API with game state
+- Improve responsiveness of game based on user feedback and choice of data in Muse API
 
 _Note: The following section is optional and is only there for basic learning about the application._
 
